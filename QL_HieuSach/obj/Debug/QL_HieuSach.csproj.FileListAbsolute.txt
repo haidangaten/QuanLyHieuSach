@@ -1,0 +1,26 @@
+D:\Ôn thi\BTAPQLSACH\QL_HieuSach\QL_HieuSach\bin\Debug\QL_HieuSach.exe.config
+D:\Ôn thi\BTAPQLSACH\QL_HieuSach\QL_HieuSach\bin\Debug\QL_HieuSach.exe
+D:\Ôn thi\BTAPQLSACH\QL_HieuSach\QL_HieuSach\bin\Debug\QL_HieuSach.pdb
+D:\Ôn thi\BTAPQLSACH\QL_HieuSach\QL_HieuSach\obj\Debug\QL_HieuSach.csprojResolveAssemblyReference.cache
+D:\Ôn thi\BTAPQLSACH\QL_HieuSach\QL_HieuSach\obj\Debug\QL_HieuSach.frmMain.resources
+D:\Ôn thi\BTAPQLSACH\QL_HieuSach\QL_HieuSach\obj\Debug\QL_HieuSach.frmSach.resources
+D:\Ôn thi\BTAPQLSACH\QL_HieuSach\QL_HieuSach\obj\Debug\QL_HieuSach.Properties.Resources.resources
+D:\Ôn thi\BTAPQLSACH\QL_HieuSach\QL_HieuSach\obj\Debug\QL_HieuSach.csproj.GenerateResource.Cache
+D:\Ôn thi\BTAPQLSACH\QL_HieuSach\QL_HieuSach\obj\Debug\QL_HieuSach.csproj.CoreCompileInputs.cache
+D:\Ôn thi\BTAPQLSACH\QL_HieuSach\QL_HieuSach\obj\Debug\QL_HieuSach.exe
+D:\Ôn thi\BTAPQLSACH\QL_HieuSach\QL_HieuSach\obj\Debug\QL_HieuSach.pdb
+D:\Ôn thi\BTAPQLSACH\QL_HieuSach\QL_HieuSach\obj\Debug\QL_HieuSach.frmTacGia.resources
+D:\Ôn thi\BTAPQLSACH\QL_HieuSach\QL_HieuSach\obj\Debug\QL_HieuSach.frmTimKiem.resources
+C:\Users\MSI\Downloads\QL_HieuSach\QL_HieuSach\bin\Debug\QL_HieuSach.exe.config
+C:\Users\MSI\Downloads\QL_HieuSach\QL_HieuSach\bin\Debug\QL_HieuSach.exe
+C:\Users\MSI\Downloads\QL_HieuSach\QL_HieuSach\bin\Debug\QL_HieuSach.pdb
+C:\Users\MSI\Downloads\QL_HieuSach\QL_HieuSach\obj\Debug\QL_HieuSach.csprojResolveAssemblyReference.cache
+C:\Users\MSI\Downloads\QL_HieuSach\QL_HieuSach\obj\Debug\QL_HieuSach.frmMain.resources
+C:\Users\MSI\Downloads\QL_HieuSach\QL_HieuSach\obj\Debug\QL_HieuSach.frmSach.resources
+C:\Users\MSI\Downloads\QL_HieuSach\QL_HieuSach\obj\Debug\QL_HieuSach.frmTacGia.resources
+C:\Users\MSI\Downloads\QL_HieuSach\QL_HieuSach\obj\Debug\QL_HieuSach.frmTimKiem.resources
+C:\Users\MSI\Downloads\QL_HieuSach\QL_HieuSach\obj\Debug\QL_HieuSach.Properties.Resources.resources
+C:\Users\MSI\Downloads\QL_HieuSach\QL_HieuSach\obj\Debug\QL_HieuSach.csproj.GenerateResource.cache
+C:\Users\MSI\Downloads\QL_HieuSach\QL_HieuSach\obj\Debug\QL_HieuSach.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Downloads\QL_HieuSach\QL_HieuSach\obj\Debug\QL_HieuSach.exe
+C:\Users\MSI\Downloads\QL_HieuSach\QL_HieuSach\obj\Debug\QL_HieuSach.pdb
